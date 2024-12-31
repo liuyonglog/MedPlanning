@@ -1,5 +1,5 @@
 # MedPlanning
-![image](https://github.com/user-attachments/assets/423ba844-8a78-41ec-bd29-8d62fbb975b5)
+![image](https://github.com/user-attachments/assets/2a1beca3-0f01-42da-8f17-f6f40b4c5c72)
 
 MedPlanning is an advanced medical image processing and surgical planning software.
 
