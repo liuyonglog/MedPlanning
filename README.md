@@ -1,7 +1,8 @@
-![image](https://github.com/user-attachments/assets/423ba844-8a78-41ec-bd29-8d62fbb975b5)
 # MedPlanning
+![image](https://github.com/user-attachments/assets/423ba844-8a78-41ec-bd29-8d62fbb975b5)
 MedPlanning is an advanced medical image processing and surgical planning software.
 ![image](https://github.com/user-attachments/assets/325325ac-0c2f-4d21-b551-35f6b9ac85ab)
+
 MedPlanning 是一个新发布的医疗规划应用程序，旨在提供高效的医疗图像处理和规划功能。以下是该应用程序的主要特性和功能：
 # 主要特性
 •	图像重切片查看器：支持多种医学图像格式查看。
@@ -37,6 +38,7 @@ medicalbbs.png
 如果在使用过程中遇到问题，请联系技术支持团队：
 •	邮箱：3247348930@qq.com
 •	电话：+86-178-2113-0219
+
 ![image](https://github.com/user-attachments/assets/219f9dab-c0b0-4312-b853-912215472f34)
 
 感谢您使用 MedPlanning！
