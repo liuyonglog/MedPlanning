@@ -47,7 +47,7 @@ MedPlanning 使用了多种开源库，请确保在使用过程中遵守相应�
 
 •	电话：+86-178-2113-0219
 
-•	http://medicalbbs.com
+•	http://www.medicalbbs.com
 
 ![image](https://github.com/user-attachments/assets/219f9dab-c0b0-4312-b853-912215472f34)
 
