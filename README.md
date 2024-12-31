@@ -25,11 +25,7 @@ MedPlanning：
 
 # 依赖库
 •	VTK
-•	ITK
 •	Qt5
-•	PlusLib
-•	licensecc
-•	DCMTK
 
 # 许可证
 MedPlanning 使用了多种开源库，请确保在使用过程中遵守相应的开源许可证。
@@ -40,8 +36,12 @@ medicalbbs.png
 如果在使用过程中遇到问题，请联系技术支持团队：
 •	邮箱：3247348930@qq.com
 •	电话：+86-178-2113-0219
-
 ![image](https://github.com/user-attachments/assets/219f9dab-c0b0-4312-b853-912215472f34)
+
+# 下载地址
+链接: https://pan.baidu.com/s/1xvX_honjarzIocUmPArdWg?pwd=bani
+提取码: bani
+![e84cb1e5a3f79d89adb03699fcaedc5](https://github.com/user-attachments/assets/f19b44b6-4f83-4280-8db8-90542a78e5a7)
 
 感谢您使用 MedPlanning！
 
