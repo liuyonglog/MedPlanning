@@ -3,7 +3,7 @@
 
 MedPlanning is an advanced medical image processing and surgical planning software.
 
-![image](https://github.com/user-attachments/assets/325325ac-0c2f-4d21-b551-35f6b9ac85ab)
+![image](https://github.com/user-attachments/assets/02657fd4-b74a-447d-8206-a15f17d068ca)
 
 MedPlanning 是一个新发布的医疗规划应用程序，旨在提供高效的医疗图像处理和规划功能。以下是该应用程序的主要特性和功能：
 # 主要特性
